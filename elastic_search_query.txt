@@ -7,7 +7,7 @@ GET /monsters/_search
    }
 }
 
-
+*******************************
 GET /monsters/_search
 {
    "aggs":{
@@ -15,7 +15,7 @@ GET /monsters/_search
    }
 }
 
-
+************************
 GET /monsters/_search
 {
    "query":{
